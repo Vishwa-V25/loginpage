@@ -1,1 +1,1 @@
-G:\coding\loginpage\index.html
+https://vishwa-v25.github.io/loginpage/
